@@ -1,0 +1,10 @@
+{
+  "name": "zk-dark-pool",
+  "version": "1.0.0",
+  "description": "Private institutional trading using ZK-SNARKs",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "snarkjs": "^0.7.0",
+    "hardhat": "^2.19.0"
+  }
+}
